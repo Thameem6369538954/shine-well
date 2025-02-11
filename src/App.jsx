@@ -56,7 +56,7 @@ const App = () => {
     
       <div className="bg-white min-h-[100vh]">
 
-      <h1 className="p-5 text-center text-4xl bold-2xl">Contact Form</h1>
+      <h1 className="p-5 text-center text-4xl font-bold" >Contact Form</h1>
     <div className=" flex flex-column items-center justify-center min-h-[70vh]">
       <div className="slider-container w-[80%] max-w-3xl">
         <Slider {...settings}>
